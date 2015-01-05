@@ -1,4 +1,4 @@
-# Bitcoin Visualizer - An app that monitors transactions and their size on the Bitcoin network
+# Bitcoin Visualizer - Visualize bitcoin transactions
 
 [http://bitcoinvisual.herokuapp.com/] (bitcoinvisual.herokuapp.com)
  
