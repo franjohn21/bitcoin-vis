@@ -1,6 +1,6 @@
 # Visualize bitcoin transactions
 
-[http://bitcoinvisual.herokuapp.com/] (bitcoinvisual.herokuapp.com)
+[bitcoinvisual.herokuapp.com] (http://bitcoinvisual.herokuapp.com/)
  
 > Built by Francis John for Dev Bootcamp phase 2 project
 
