@@ -1,4 +1,4 @@
-# Bitcoin Visualizer - Visualize bitcoin transactions
+# Visualize bitcoin transactions
 
 [http://bitcoinvisual.herokuapp.com/] (bitcoinvisual.herokuapp.com)
  
